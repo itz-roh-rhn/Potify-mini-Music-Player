@@ -88,13 +88,13 @@ new Vue({
 
           artist: "Kaifi Khalil",
 
-          cover: "../img/10.jpg",
+          cover: "../img/10.jpeg",
 
           source: "../mp3/10.mp3",
 
           url: "https://youtu.be/_XBVWlI8TsQ",
 
-          favorited: false
+          favorited: true
          }
 
       ],
