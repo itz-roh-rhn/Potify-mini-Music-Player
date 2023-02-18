@@ -82,7 +82,21 @@ new Vue({
           source: "../mp3/9.mp3",
           url: "https://www.youtube.com/watch?v=WMweEpGlu_U&ab_channel=HYBELABELS",
           favorited: false
-        }
+        },
+        {
+          name: "Kahani Suno",
+
+          artist: "Kaifi Khalil",
+
+          cover: "../img/10.jpg",
+
+          source: "../mp3/10.mp3",
+
+          url: "https://youtu.be/_XBVWlI8TsQ",
+
+          favorited: false
+         }
+
       ],
       currentTrack: null,
       currentTrackIndex: 0,
